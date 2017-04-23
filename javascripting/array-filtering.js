@@ -1,0 +1,14 @@
+var numbers = [1,2,3,4,5,6,7,8,9,10];
+/*
+var filtered = numbers.filter(evenodd);
+function evenodd(numbers){
+  if(numbers % 2 == 0){
+    return numbers;
+  }
+}
+*/
+
+var filtered = numbers.filter(function evenodd(number){
+  return number % 2 === 0;
+});
+console.log(filtered);
