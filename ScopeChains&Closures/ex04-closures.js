@@ -78,6 +78,6 @@ Since we are returning the function zip, the reference to bar is maintained (and
 
 This has interesting implications for memory, which we will cover in the next lesson.
 
--------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
 
 **/
