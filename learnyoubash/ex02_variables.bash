@@ -1,5 +1,5 @@
 echo "User $USER in directory $PWD."
-
+echo "-----------------------------"
 echo "---List of basic commands---"
 echo "---The current user\'s home directory : $HOME."
 echo "---The current user : $USER. "
