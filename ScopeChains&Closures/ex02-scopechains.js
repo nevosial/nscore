@@ -49,7 +49,7 @@ For example:
     }
 
 inner has access to both innerVar & outerVar, but someFunc only has
-access to outerVar
+access to outerVar.
 
 ## Multiple Nested Scopes
 
@@ -69,7 +69,7 @@ For example:
 
 inner & inner2 are both inner scopes of someFunc. Just as someFunc
 cannot access inner's variables, inner cannot access inner2's variables
-(and vice versa)
+(and vice versa).
 
 ## Scope Tree
 
