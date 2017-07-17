@@ -23,5 +23,5 @@ function:
       var aVariable;
     }
 
-aVariable is lexically scoped within someFunc
+aVariable is lexically scoped within someFunc method.
 **/
