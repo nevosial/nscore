@@ -4,4 +4,9 @@ var pizza = {
   serves : 2
 };
 
+var cake = {
+  type : ['veg', 'non veg'],
+
+};
+
 console.log(pizza);
