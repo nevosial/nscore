@@ -6,7 +6,7 @@ var pizza = {
 
 var cake = {
   type : ['veg', 'non veg'],
-
+  serves : 2
 };
 
 console.log(pizza);
