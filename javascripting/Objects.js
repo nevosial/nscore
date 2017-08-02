@@ -9,4 +9,10 @@ var cake = {
   serves : 2
 };
 
+
+var bread = {
+    type : ['BROWN','WHITE']
+}
+
+
 console.log(pizza);
