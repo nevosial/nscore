@@ -14,5 +14,9 @@ var bread = {
     type : ['BROWN','WHITE']
 }
 
+var tea = {
+   type : ['Green', 'Camomile']
+}
+
 
 console.log(pizza);
