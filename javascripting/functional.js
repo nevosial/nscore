@@ -5,3 +5,6 @@ console.log('Even Number');
 else{
 console.log("Not an even number");
 }
+
+  
+ even (6)
